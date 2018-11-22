@@ -1,0 +1,12 @@
+Programação Concorrente
+
+Especificação:
+
+Em OpenMP, implementar um programa que receba três entradas: N, M e P, onde:
+
+N representa o tamanho de um vetor
+M um valor de módulo
+P o número de threads do time de execução
+O programa deve preencher cada posição i do vetor com o valor do Fibonacci de i % M (i módulo M). Observe que o valor M deve ser entre 10 e 40.
+
+Deve ser entregue o programa fonte comentado e uma análise de desempenho que apresente a relação entre tempo de execução, e os valores N, M e P informados.
